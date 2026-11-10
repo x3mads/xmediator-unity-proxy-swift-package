@@ -18,7 +18,7 @@ To integrate `XMediatorUnityProxy` into your Xcode project using Swift Package M
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/x3mads/xmediator-unity-proxy-swift-package", exact: "1.168.200")
+    .package(url: "https://github.com/x3mads/xmediator-unity-proxy-swift-package", exact: "1.177.000")
 ]
 ```
 
